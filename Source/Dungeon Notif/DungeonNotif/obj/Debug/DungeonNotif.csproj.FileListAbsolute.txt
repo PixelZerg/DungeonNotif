@@ -1,0 +1,9 @@
+c:\users\rut\documents\visual studio 2013\Projects\DungeonNotif\DungeonNotif\obj\Debug\DungeonNotif.csprojResolveAssemblyReference.cache
+c:\users\rut\documents\visual studio 2013\Projects\DungeonNotif\DungeonNotif\bin\Debug\DungeonNotif.dll
+c:\users\rut\documents\visual studio 2013\Projects\DungeonNotif\DungeonNotif\bin\Debug\DungeonNotif.pdb
+c:\users\rut\documents\visual studio 2013\Projects\DungeonNotif\DungeonNotif\bin\Debug\Lib K Relay.dll
+c:\users\rut\documents\visual studio 2013\Projects\DungeonNotif\DungeonNotif\obj\Debug\DungeonNotif.dll
+c:\users\rut\documents\visual studio 2013\Projects\DungeonNotif\DungeonNotif\obj\Debug\DungeonNotif.pdb
+c:\users\rut\documents\visual studio 2013\Projects\DungeonNotif\DungeonNotif\obj\Debug\DungeonNotif.Form1.resources
+c:\users\rut\documents\visual studio 2013\Projects\DungeonNotif\DungeonNotif\obj\Debug\DungeonNotif.csproj.GenerateResource.Cache
+C:\Users\Rut\documents\visual studio 2013\Projects\DungeonNotif\DungeonNotif\obj\Debug\DungeonNotif.UserControl1.resources

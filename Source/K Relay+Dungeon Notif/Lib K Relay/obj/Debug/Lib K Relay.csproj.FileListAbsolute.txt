@@ -1,0 +1,7 @@
+C:\Users\Rut\Downloads\K_Relay-master2\K_Relay-master\Lib K Relay\bin\Debug\Lib K Relay.dll
+C:\Users\Rut\Downloads\K_Relay-master2\K_Relay-master\Lib K Relay\bin\Debug\Lib K Relay.pdb
+C:\Users\Rut\Downloads\K_Relay-master2\K_Relay-master\Lib K Relay\obj\Debug\Lib K Relay.csprojResolveAssemblyReference.cache
+C:\Users\Rut\Downloads\K_Relay-master2\K_Relay-master\Lib K Relay\obj\Debug\Lib_K_Relay.Utilities.FrmGenericSettings.resources
+C:\Users\Rut\Downloads\K_Relay-master2\K_Relay-master\Lib K Relay\obj\Debug\Lib K Relay.csproj.GenerateResource.Cache
+C:\Users\Rut\Downloads\K_Relay-master2\K_Relay-master\Lib K Relay\obj\Debug\Lib K Relay.dll
+C:\Users\Rut\Downloads\K_Relay-master2\K_Relay-master\Lib K Relay\obj\Debug\Lib K Relay.pdb

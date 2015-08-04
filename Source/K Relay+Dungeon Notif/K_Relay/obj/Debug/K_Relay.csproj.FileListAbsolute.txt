@@ -1,0 +1,15 @@
+C:\Users\Rut\Downloads\K_Relay-master2\K_Relay-master\K_Relay\bin\Debug\K_Relay.exe.config
+C:\Users\Rut\Downloads\K_Relay-master2\K_Relay-master\K_Relay\bin\Debug\K_Relay.exe
+C:\Users\Rut\Downloads\K_Relay-master2\K_Relay-master\K_Relay\bin\Debug\K_Relay.pdb
+C:\Users\Rut\Downloads\K_Relay-master2\K_Relay-master\K_Relay\bin\Debug\Lib K Relay.dll
+C:\Users\Rut\Downloads\K_Relay-master2\K_Relay-master\K_Relay\bin\Debug\Lib K Relay.pdb
+C:\Users\Rut\Downloads\K_Relay-master2\K_Relay-master\K_Relay\obj\Debug\K_Relay.csprojResolveAssemblyReference.cache
+C:\Users\Rut\Downloads\K_Relay-master2\K_Relay-master\K_Relay\obj\Debug\K_Relay.Controls.MetroListBox.resources
+C:\Users\Rut\Downloads\K_Relay-master2\K_Relay-master\K_Relay\obj\Debug\K_Relay.FrmMainMetro.resources
+C:\Users\Rut\Downloads\K_Relay-master2\K_Relay-master\K_Relay\obj\Debug\K_Relay.Properties.Resources.resources
+C:\Users\Rut\Downloads\K_Relay-master2\K_Relay-master\K_Relay\obj\Debug\K_Relay.Util.FrmServerReconnect.resources
+C:\Users\Rut\Downloads\K_Relay-master2\K_Relay-master\K_Relay\obj\Debug\K_Relay.csproj.GenerateResource.Cache
+C:\Users\Rut\Downloads\K_Relay-master2\K_Relay-master\K_Relay\obj\Debug\K_Relay.exe
+C:\Users\Rut\Downloads\K_Relay-master2\K_Relay-master\K_Relay\obj\Debug\K_Relay.pdb
+C:\Users\Rut\Downloads\K_Relay-master2\K_Relay-master\K_Relay\obj\Debug\K_Relay.DUngeonNotgIG.Form1.resources
+C:\Users\Rut\Downloads\K_Relay-master2\K_Relay-master\K_Relay\obj\Debug\K_Relay.DUngeonNotgIG.UserControl1.resources
